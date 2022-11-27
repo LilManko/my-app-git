@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app-git/static/css/main.184c878e.css",
-    "main.js": "/my-app-git/static/js/main.a1f5ea08.js",
-    "static/js/787.44ff40b9.chunk.js": "/my-app-git/static/js/787.44ff40b9.chunk.js",
-    "static/media/logo.svg": "/my-app-git/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
-    "index.html": "/my-app-git/index.html",
-    "main.184c878e.css.map": "/my-app-git/static/css/main.184c878e.css.map",
-    "main.a1f5ea08.js.map": "/my-app-git/static/js/main.a1f5ea08.js.map",
-    "787.44ff40b9.chunk.js.map": "/my-app-git/static/js/787.44ff40b9.chunk.js.map"
+    "main.css": "/my-app-git.git/static/css/main.184c878e.css",
+    "main.js": "/my-app-git.git/static/js/main.d105b226.js",
+    "static/js/787.44ff40b9.chunk.js": "/my-app-git.git/static/js/787.44ff40b9.chunk.js",
+    "static/media/logo.svg": "/my-app-git.git/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/my-app-git.git/index.html",
+    "main.184c878e.css.map": "/my-app-git.git/static/css/main.184c878e.css.map",
+    "main.d105b226.js.map": "/my-app-git.git/static/js/main.d105b226.js.map",
+    "787.44ff40b9.chunk.js.map": "/my-app-git.git/static/js/787.44ff40b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.184c878e.css",
-    "static/js/main.a1f5ea08.js"
+    "static/js/main.d105b226.js"
   ]
 }
